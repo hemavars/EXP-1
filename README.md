@@ -71,9 +71,7 @@ a.   KVL:
 
 
 b.  KCL:
-
-<img width="982" height="318" alt="Screenshot 2026-05-21 201907" src="https://github.com/user-attachments/assets/d893ba49-8be0-4a8b-b330-8894ddc598a4" />
-
+<img width="982" height="318" alt="Screenshot 2026-05-21 201907" src="https://github.com/user-attachments/assets/026f883f-1afd-4d5d-9005-ae4fae29c35b" />
 
 RESULT:
 
